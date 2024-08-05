@@ -1,6 +1,6 @@
 {
-  "Mov_username": "",
-  "Mov_password": "",
-  "Monoova_Token_url": "",
-  "Client_Session_Token_url": ""
+  "Mov_username": "6279059739862925",
+  "Mov_password": "3CAD4F77-5180-46B5-A67D-74B4D8E52665",
+  "Monoova_Token_url": "https://sand-api.monoova.com/au/security/oauth-v1/Token",
+  "Client_Session_Token_url": "https://sand-api.monoova.com/au/card/ccm/CreditCardTransaction/token"
 }
